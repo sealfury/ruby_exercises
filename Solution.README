@@ -1,0 +1,3 @@
+The error message indicates that a hash was contained using a 
+parenthesis instead of a brace and therefore hasn't been recognised
+as a hash
