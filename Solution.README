@@ -1,3 +1,11 @@
-The error message indicates that a hash was contained using a 
+#The error message indicates that a hash was contained using a 
 parenthesis instead of a brace and therefore hasn't been recognised
 as a hash
+
+#The |num| is telling the each command to check each number in the array,
+the == checks if the number being tested is equal to the previously defined
+operand '3'
+
+#The [1] and [0] represent the spots in the respective arrays ruby will look to 
+find the word "example", i.e., 'look at the second array within the larger array (spot 1), 
+and look at the first object in that array (spot 0)'
